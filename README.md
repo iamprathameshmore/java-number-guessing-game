@@ -19,7 +19,7 @@ To run the game on your local machine, make sure you have Java installed. You ca
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamprathameshmore/java-number-guessing-game.git
+   git clone https://github.com/yourusername/java-number-guessing-game.git
    ```
 
 2. Compile the Java code:
@@ -57,6 +57,4 @@ If you'd like to contribute to this project, feel free to open an issue, create 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Make sure to replace the placeholders (e.g., `iamprathameshmore`) with the actual information specific to your GitHub repository. Customize the upper bound of the range to match your desired level of difficulty. This README provides a clear explanation of how to play the game and how to run it on a local machine.
-
-```
+Make sure to replace the placeholders (e.g., `yourusername`) with the actual information specific to your GitHub repository. Customize the upper bound of the range to match your desired level of difficulty. This README provides a clear explanation of how to play the game and how to run it on a local machine.
