@@ -56,3 +56,7 @@ If you'd like to contribute to this project, feel free to open an issue, create 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+
+Make sure to replace the placeholders (e.g., `iamprathameshmore`) with the actual information specific to your GitHub repository. Customize the upper bound of the range to match your desired level of difficulty. This README provides a clear explanation of how to play the game and how to run it on a local machine.
+
+```
